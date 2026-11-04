@@ -1,0 +1,23 @@
+// Componentes reutilizables del panel (src/lib/components)
+export { default as Avatar } from './components/Avatar/Avatar.svelte';
+export { default as Avisos } from './components/Avisos/Avisos.svelte';
+export { default as Cargando } from './components/Cargando/Cargando.svelte';
+export { default as ChatBubble } from './components/ChatBubble/ChatBubble.svelte';
+export { default as Confirmar } from './components/Confirmar/Confirmar.svelte';
+export { default as EmptyState } from './components/EmptyState/EmptyState.svelte';
+export { default as Footer } from './components/Footer/Footer.svelte';
+export { default as GraficoArea } from './components/GraficoArea/GraficoArea.svelte';
+export { default as GraficoBarras } from './components/GraficoBarras/GraficoBarras.svelte';
+export { default as GraficoDona } from './components/GraficoDona/GraficoDona.svelte';
+export { default as Modal } from './components/Modal/Modal.svelte';
+export { default as PageHeader } from './components/PageHeader/PageHeader.svelte';
+export { default as RoleSelector } from './components/RoleSelector/RoleSelector.svelte';
+export { default as Sidebar } from './components/Sidebar/Sidebar.svelte';
+export { default as SinPermiso } from './components/SinPermiso/SinPermiso.svelte';
+export { default as StatCard } from './components/StatCard/StatCard.svelte';
+export { default as StatusPill } from './components/StatusPill/StatusPill.svelte';
+export { default as TablaDatos } from './components/TablaDatos/TablaDatos.svelte';
+export { default as Tarjeta } from './components/Tarjeta/Tarjeta.svelte';
+export { default as Topbar } from './components/Topbar/Topbar.svelte';
+export { default as CrudCatalogo } from './components/CrudCatalogo/CrudCatalogo.svelte';
+export { default as MapaTrabajos } from './components/MapaTrabajos/MapaTrabajos.svelte';
